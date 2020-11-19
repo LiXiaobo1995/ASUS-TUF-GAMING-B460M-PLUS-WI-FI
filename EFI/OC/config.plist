@@ -1101,7 +1101,7 @@
 			<key>MLB</key>
 			<string>C02939301CDLNV9A8</string>
 			<key>ProcessorType</key>
-			<integer>4105</integer>
+			<integer>0</integer>
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>ROM</key>

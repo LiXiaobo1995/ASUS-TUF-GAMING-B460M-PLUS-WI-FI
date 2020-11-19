@@ -1,5 +1,6 @@
 # ASUS-TUF-GAMING-B460M-PLUS-WI-FI
 OC0.6.3 bigsur
+黑苹果三码自行修改
 
 i5-10400核显正常
 

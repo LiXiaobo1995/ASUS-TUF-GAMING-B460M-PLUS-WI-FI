@@ -14,6 +14,7 @@ DP/HDMI 正常
 有线网卡正常
 
 intel 无线网卡驱动正常 修改 AX200 网卡驱动 itlwm.kext\contents\info.plist 文件，将 WiFi_1 下的 ssid 改为自己的 wifi 名称，password 改为自己的 wifi 密码，否则 wifi 不可用
+也可以下载heliport配合使用
 
 intel 蓝牙正常
 
